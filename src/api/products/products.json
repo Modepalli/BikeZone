@@ -11,52 +11,212 @@
     },
     {
         "productId": 2,
-        "productName": "Royal Enfield Classic 500",
-        "productCode": "RE-C500-Blk",
+        "productName": "Royal Enfield Classic 500 Stealth",
+        "productCode": "RE-C500",
         "releaseDate": "March 18, 2016",
-        "description": "350cc Scrambler MotorBike",
+        "description": "500cc scrambler MotorBike",
         "price": 3000,
         "starRating": 3.8,
-        "imageUrl": "http://www.sagmart.com/uploads/2017/09/07/product_1/royal-enfield-classic-500-stealth-black.png"
+        "imageUrl": "http://www.sagmart.com/includes/functions/image.php?width=300&height=300&image=http://www.sagmart.com/uploads/2017/09/07/product_1/royal-enfield-classic-500-stealth-black.png"
+    },
+    {
+        "productId": 3,
+        "productName": "Royal Enfield HIMALAYAN",
+        "productCode": "RE-HIM-550",
+        "releaseDate": "March 18, 2016",
+        "description": "550cc Offroad MotorBike",
+        "price": 3600,
+        "starRating": 3.8,
+        "imageUrl": "https://bd.gaadicdn.com/processedimages/royal-enfield/royal-enfield-himalayan/640X309/v_royal-enfield-himalayan-std_gd.png"
+    },
+    {
+        "productId": 4,
+        "productName": "Royal Enfield Continental - GT",
+        "productCode": "RE-CTGT",
+        "releaseDate": "March 18, 2016",
+        "description": "550cc Caferacer MotorBike",
+        "price": 4000,
+        "starRating": 3.8,
+        "imageUrl": "https://qph.fs.quoracdn.net/main-qimg-edd110ffc749754ca5df6ada3e8ab9d2"
     },
     {
         "productId": 5,
+        "productName": "Royal Enfield Machismo",
+        "productCode": "RE-MS500",
+        "releaseDate": "March 18, 2016",
+        "description": "500cc scrambler MotorBike",
+        "price": 3500,
+        "starRating": 3.8,
+        "imageUrl": "http://moziru.com/images/motorcycle-clipart-bullet-bike-9.png"
+    },
+    {
+        "productId": 6,
+        "productName": "Royal Enfield Thunderbird X 500",
+        "productCode": "RE-TBX 500",
+        "releaseDate": "March 18, 2016",
+        "description": "500cc Cruiser MotorBike",
+        "price": 3500,
+        "starRating": 3.8,
+        "imageUrl": "https://i0.wp.com/gadgetsfry.com/wp-content/uploads/2018/03/Royal-Enfield-Thunderbird-500X-2.png?fit=700%2C500"
+    },
+    {
+        "productId": 7,
+        "productName": "TWIN STRIPES SUNPEAK HELMET",
+        "productCode": "TW Strip Helmet",
+        "releaseDate": "May 21, 2016",
+        "description": "Single Unit Fiberglass Shell,Hard Coated Surface",
+        "price": 13.5,
+        "starRating": 4.8,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal_Enfield_Sunpeak_Helmet_Gloss_White_1_9cc825aa-356f-41fe-9493-8e23edd31868_1400x.jpg?v=1519823342"
+    },
+    {
+        "productId": 8,
         "productName": "METROPOLIS HELMET",
         "productCode": "MP Helmet",
         "releaseDate": "May 21, 2016",
-        "description": "Single Unit Fiberglass Shell,Hard Coated Surface",
+        "description": "Fiberglass Shell,Hard Coated Surface",
         "price": 13.5,
         "starRating": 4.8,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal-Enfield-Metropolis-Helmet-Drifter-Blue-1_1400x.jpg?v=1520492033"
     },
     {
-        "productId": 8,
+        "productId": 9,
+        "productName": "URBAN TROOPER HELMET",
+        "productCode": "URB Helmet",
+        "releaseDate": "May 21, 2016",
+        "description": "Single Unit Fiberglass Shell,Wide Eye Port",
+        "price": 15.80,
+        "starRating": 4.8,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal_Enfield_Urban_Trooper_Helmet_Gloss_White_1_1400x.jpg?v=1507718830"
+    },
+    {
+        "productId": 10,
+        "productName": "DRIFTER HELMET - TRUE STRIPES",
+        "productCode": "Drift Helmet",
+        "releaseDate": "May 21, 2016",
+        "description": "Single Unit Fiberglass Shell,Wide Eye Port",
+        "price": 15.80,
+        "starRating": 4.8,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Drifter-Helmet-True-Stripes-Green-White-1_1400x.jpg?v=1518437454"
+    },
+    {
+        "productId": 11,
         "productName": "ENDURO GLOVES",
         "productCode": "ENG-0022",
         "releaseDate": "May 15, 2016",
-        "description": "15-inch steel blade hand saw",
+        "description": "Finger Joints Protection: High-density foam inserts on finger joints",
         "price": 11.55,
         "starRating": 3.7,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal_Enfield_Enduro_Gloves_Camo_Grey_1_1400x.jpg?v=1510211902"
     },
     {
-        "productId": 10,
+        "productId": 12,
+        "productName": "STREETBORN GLOVES",
+        "productCode": "SBG-0022",
+        "releaseDate": "May 15, 2016",
+        "description": "Made from highly abrasion resistant Genuine leather",
+        "price": 11.55,
+        "starRating": 3.7,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal_Enfield_Streetborn_Gloves_Brown_1_1400x.jpg?v=1509967267"
+    },
+    {
+        "productId": 13,
+        "productName": "RE MILITARY GLOVES OLIVE",
+        "productCode": "MGO-0022",
+        "releaseDate": "May 15, 2016",
+        "description": "Faux leather and mesh, made from a mix of highly abrasion resistant nylon and polyurethane",
+        "price": 11.55,
+        "starRating": 3.7,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal-Enfield-Military-Gloves-Olive-Green-1_1400x.jpg?v=1520494429"
+    },
+    {
+        "productId": 14,
         "productName": "TOURING BOOTS - MID RISE",
         "productCode": "GMG-0042",
         "releaseDate": "October 15, 2015",
-        "description": "Standard two-button video game controller",
+        "description": "(Outer Shell , Waterproof Liner , Comfort Mesh Liner",
         "price": 35.95,
         "starRating": 4.6,
-        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal_Enfield_Touring_Boots_Mid_Rise_Black_1_1400x.jpg?v=1520416749"
     },
     {
-        "productId": 11,
+        "productId": 15,
+        "productName": "HUNTSMAN BOOTS",
+        "productCode": "HMB-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "super-sturdy design and hard-wearing materials. Impenetrable outside and snug inside",
+        "price": 35.95,
+        "starRating": 4.6,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal-Enfield-Huntsman-Boots-Green-Brown-1_1400x.jpg?v=1515582290"
+    },
+    {
+        "productId": 16,
+        "productName": "BRADFIELD BOOTS",
+        "productCode": "BFB-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "super-sturdy design and hard-wearing materials. Impenetrable outside and snug inside",
+        "price": 35.95,
+        "starRating": 4.6,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/1-copy_1400x.jpg?v=1494497182"
+    },
+    {
+        "productId": 17,
         "productName": "RYNOX URBAN JACKET (STONE GREY)",
         "productCode": "GMG-0042",
         "releaseDate": "October 15, 2015",
-        "description": "Standard two-button video game controller",
+        "description": "3 in 1 All Season Mesh Protective Riding Jacket",
         "price": 88.55,
         "starRating": 4.6,
         "imageUrl": "https://www.bikeopedia.in/image/cache//Riding%20Gears/Jackets/Rynox/Urban_Jacket-08-750x750.jpg"
+    },
+    {
+        "productId": 18,
+        "productName": "SQUADRON FIELD JACKET",
+        "productCode": "SFJ-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "Quilted to keep you warm.Genuine YKK Zippers.Ninja Cuffs.",
+        "price": 88.55,
+        "starRating": 4.6,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal-Enfield-Squadron-Field-Jacket-Anthracite-2_1400x.jpg?v=1518765198"
+    },
+    {
+        "productId": 19,
+        "productName": "ASPIDA Aura Mesh Jacket (Orange)",
+        "productCode": "AAJ-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "Abrasion-resistant AeroMID® mesh fabric for maximum ventilation keeping the rider comfortable even on sunny days.",
+        "price": 88.55,
+        "starRating": 4.6,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1045/6728/products/Aura-orange_eb424536-0f8a-4181-a30c-882a1d59f00b.jpg?v=1513247789"
+    },
+    {
+        "productId": 20,
+        "productName": "DARCHA JACKET (BLACK)",
+        "productCode": "DAJ-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "all-weather protective adventure touring jacket, developed in collaboration with Rev’it!.",
+        "price": 88.55,
+        "starRating": 4.6,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal-Enfield-Darcha-Jacket-Black-1_1400x.jpg?v=1512382222"
+    },
+    {
+        "productId": 21,
+        "productName": "BIG BEAR RUN CHECKERED SHIRT",
+        "productCode": "BBS-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "all-weather protective adventure touring jacket, developed in collaboration with Rev’it!.",
+        "price": 18.55,
+        "starRating": 4.6,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal-Enfield-Big-Bear-Run-Checkered-Shirt-Red-Grey-1_1400x.jpg?v=1512369192"
+    },
+    {
+        "productId": 22,
+        "productName": "MOUNTAINWAVES T-SHIRT",
+        "productCode": "MWT-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "The Mountainwaves pattern on this t-shirt is an interpretation of the spirit of wanderlust",
+        "price": 20.55,
+        "starRating": 4.6,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0660/7355/products/Royal_Enfield_Mountainwaves_T-Shirt_Midnight_Blue_1_1400x.jpg?v=1519735631"
     }
 ]

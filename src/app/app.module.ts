@@ -33,9 +33,9 @@ import { SpeechRecognitionService } from './core/speech-recognition.service';
       {path: 'products/:id',
       canActivate: [ProductGuardService],
       component: ProductDetailComponent},
-      {path: 'welcome', component: WelcomeComponent},
-      {path: '',redirectTo: 'welcome', pathMatch: 'full'},
-      {path: '**', redirectTo: 'welcome', pathMatch: 'full'}
+      {path: 'products', component: WelcomeComponent},
+      {path: '',redirectTo: 'products', pathMatch: 'full'},
+      {path: '**', redirectTo: 'products', pathMatch: 'full'}
     ]),
     ProductModule
   ],
